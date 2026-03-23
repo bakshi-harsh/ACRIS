@@ -1,4 +1,4 @@
-# HireFlow — AI Career Intelligence Platform
+# ACRIS— AI Career Intelligence Platform
 
 A production-ready SaaS web app built with **FastAPI + Jinja2 + SQLite + Google OAuth**.
 
